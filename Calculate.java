@@ -1,4 +1,4 @@
-.*;
+import java.util.*;
 
 class Fibonacci {
     Scanner sc = new Scanner(System.in);
